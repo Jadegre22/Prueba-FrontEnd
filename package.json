@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "http-server -p 8436"
+    
+  }
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "prueba-frontend",
+  "description": "Repositorio para el FrontEnd",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jadegre22/Prueba-FrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jadegre22/Prueba-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/Jadegre22/Prueba-FrontEnd#readme"
+}
